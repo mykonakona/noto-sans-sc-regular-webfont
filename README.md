@@ -2,7 +2,7 @@
 
 ## 简介
 
-自托管于[Vercel](https://vercel.com/) 的简中思源黑体，字重Regular，有效提高[我的静态博客](https://mykonakona.github.io/)的网络字体加载速度。
+自托管于[Vercel](https://vercel.com/)的简中思源黑体，字重Regular，有效提高[我的静态博客](https://mykonakona.github.io/)的网络字体加载速度。
 
 字体文件来自：[google webfont helper](https://gwfh.mranftl.com/)。
 
